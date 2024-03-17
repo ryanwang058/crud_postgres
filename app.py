@@ -1,7 +1,7 @@
 import crud as c
 
 def main():
-  table = "students"
+  table = "students" # Name of the table to do CRUD operations
   crud = c.CRUD(table)
 
   option = input("Enter option (1 for READ, 2 for ADD, 3 for UPDATE, 4 for DELETE, q to Quit): ")
