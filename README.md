@@ -22,7 +22,7 @@ https://youtu.be/NVQy45SLvm0
 
     $ deactivate
 
-### Databse setup
+### Database setup
 
 1. Create a `.env` file containing information of your database
 e.g.,
