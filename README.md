@@ -1,3 +1,7 @@
+## Video Link
+
+https://youtu.be/NVQy45SLvm0
+
 ## How to use the proram
 
 ### Python setup
