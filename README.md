@@ -2,7 +2,7 @@
 
 https://youtu.be/NVQy45SLvm0
 
-## How to use the proram
+## How to set up
 
 ### Python setup
 
@@ -39,7 +39,7 @@ e.g.,
 
 3. Populate the database with the provided `schema.sql` using pgAdmin
 
-### Run the program
+## How to run the program
 
 1. Activate virtual environment
 
